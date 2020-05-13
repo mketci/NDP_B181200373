@@ -1,0 +1,541 @@
+C:\Users\Ogle\source\repos\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Ogle\source\repos\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Ogle\source\repos\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Ogle\source\repos\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Ogle\source\repos\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Ogle\source\repos\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.02.2019 Onur Hoca MixApp0207\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.03.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.11.2019 MixApp ve SQL\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.12.2019 SQL MixApp Çalışması\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Database (Silme ve Güncelleme)\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.16.2019 MixApp Bigi Giriş\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.17.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.18.2019\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.19.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokGiris.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAl.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.23.2019 MixApp Devam\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokGiris.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAl.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.24.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmStokListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokGiris.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmStokListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAl.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.25.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokDurum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokDurum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokGiris.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Iki.frmStokListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAl.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisDurum.resources
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\07.26.2019 MixApp SiparişAl\MixApp\MixApp\obj\Debug\MixApp.Uc.frmLotBul.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Print.frmPrint.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokDurum.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokGiris.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmStokListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmLotBul.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAl.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisDurum.resources
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\FlashControlV71.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\bin\Debug\stdole.dll
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\29.07.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CopyComplete
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\FlashControlV71.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\bin\Debug\stdole.dll
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.Faktoriyel_Hesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.FibonacciHesaplama.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.frmArrayList.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.frmAtYarisi.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.frmElmaTopla.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.frmGridKontrol.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.IkinciForm.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Bir.IlkFormum.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Print.frmPrint.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokDurum.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokGiris.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Iki.frmStokListesi.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Uc.frmLotBul.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAl.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisDurum.resources
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.csproj.CopyComplete
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.pdb
+C:\Users\Öğle\Desktop\wissen dersler\30.07.2019 MixApp Print\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAlListe.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.config
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe.manifest
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.application
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.exe
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\MixApp.pdb
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\bin\Debug\stdole.dll
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csprojAssemblyReference.cache
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirma.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmFirmaListesi.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmKategori.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrun.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmUrunListesi.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmMarka.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.MainPage.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Print.frmPrint.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Properties.Resources.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokDurum.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Stok.frmStokGiris.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Iki.frmStokListesi.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmLotBul.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAl.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisAlListe.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.Uc.frmSiparisDurum.resources
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.GenerateResource.cache
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CoreCompileInputs.cache
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe.manifest
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.application
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.csproj.CopyComplete
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.exe
+C:\Users\tunahan.ketci\Desktop\08.01.2019 MixApp\MixApp\MixApp\obj\Debug\MixApp.pdb

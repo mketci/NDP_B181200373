@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="FirstAppDb" Class="DbFirstDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=WISSEN14\OGLE302;Initial Catalog=FirstAppDb;Persist Security Info=True;User ID=sa" SettingsObjectName="MixApp.Properties.Settings" SettingsPropertyName="FirstAppDbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblFirma" Member="tblFirmas">
+    <Type Name="tblFirma">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CariKod" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FirmaAdi" Type="System.String" DbType="NVarChar(350)" CanBeNull="true" />
+      <Column Name="Adres" Type="System.String" DbType="NVarChar(450)" CanBeNull="true" />
+      <Column Name="Yetkili" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Departman" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="eMail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Telefon" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="GSM" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Faks" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="VergiD" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="VergiN" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="tblFirma_tblStokGirisUst" Member="tblStokGirisUsts" ThisKey="ID" OtherKey="FirmaID" Type="tblStokGirisUst" />
+      <Association Name="tblFirma_tblSiparisUst" Member="tblSiparisUsts" ThisKey="ID" OtherKey="FirmaID" Type="tblSiparisUst" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblKategoriler" Member="tblKategorilers">
+    <Type Name="tblKategoriler">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KategoriAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="tblKategoriler_tblUrunler" Member="tblUrunlers" ThisKey="ID" OtherKey="KategoriID" Type="tblUrunler" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblMarkalar" Member="tblMarkalars">
+    <Type Name="tblMarkalar">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MarkaAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="tblMarkalar_tblUrunler" Member="tblUrunlers" ThisKey="ID" OtherKey="MarkaID" Type="tblUrunler" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblStokDurum" Member="tblStokDurums">
+    <Type Name="tblStokDurum">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UrunID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LotSeriNo" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Adet" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Barkod" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Association Name="tblUrunler_tblStokDurum" Member="tblUrunler" ThisKey="UrunID" OtherKey="ID" Type="tblUrunler" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblStokGirisAlt" Member="tblStokGirisAlts">
+    <Type Name="tblStokGirisAlt">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StokGirisNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UrunID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LotSeriNo" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Adet" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblUrunler_tblStokGirisAlt" Member="tblUrunler" ThisKey="UrunID" OtherKey="ID" Type="tblUrunler" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblStokGirisUst" Member="tblStokGirisUsts">
+    <Type Name="tblStokGirisUst">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StokGNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FirmaID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ATarih" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="StokAciklama" Type="System.String" DbType="NVarChar(350)" CanBeNull="true" />
+      <Association Name="tblFirma_tblStokGirisUst" Member="tblFirma" ThisKey="FirmaID" OtherKey="ID" Type="tblFirma" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblSiparisUst" Member="tblSiparisUsts">
+    <Type Name="tblSiparisUst">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SiparisNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FirmaID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ATarih" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="SiparisAciklama" Type="System.String" DbType="NVarChar(350)" CanBeNull="true" />
+      <Association Name="tblFirma_tblSiparisUst" Member="tblFirma" ThisKey="FirmaID" OtherKey="ID" Type="tblFirma" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.vwStokGiris" Member="vwStokGiris">
+    <Type Name="vwStokGiri">
+      <Column Name="StokGNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ATarih" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="StokAciklama" Type="System.String" DbType="NVarChar(350)" CanBeNull="true" />
+      <Column Name="LotSeriNo" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Adet" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FirmaAdi" Type="System.String" DbType="NVarChar(350)" CanBeNull="true" />
+      <Column Name="UrunAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.vwSiparisAl" Member="vwSiparisAls">
+    <Type Name="vwSiparisAl">
+      <Column Name="SiparisNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ATarih" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Adet" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UrunAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="UrunKodu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Adres" Type="System.String" DbType="NVarChar(450)" CanBeNull="true" />
+      <Column Name="FirmaAdi" Type="System.String" DbType="NVarChar(350)" CanBeNull="true" />
+      <Column Name="CariKod" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="VergiD" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="VergiN" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblSiparisAlt" Member="tblSiparisAlts">
+    <Type Name="tblSiparisAlt">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SiparisNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UrunID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LotSeriNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Adet" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblUrunler_tblSiparisAlt" Member="tblUrunler" ThisKey="UrunID" OtherKey="ID" Type="tblUrunler" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUrunler" Member="tblUrunlers">
+    <Type Name="tblUrunler">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UrunKodu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UrunAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Resim" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="KategoriID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MarkaID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Mensei" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Acıklama" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="SaveUser" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UpdateUser" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SaveDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="tblUrunler_tblStokDurum" Member="tblStokDurums" ThisKey="ID" OtherKey="UrunID" Type="tblStokDurum" />
+      <Association Name="tblUrunler_tblStokGirisAlt" Member="tblStokGirisAlts" ThisKey="ID" OtherKey="UrunID" Type="tblStokGirisAlt" />
+      <Association Name="tblUrunler_tblSiparisAlt" Member="tblSiparisAlts" ThisKey="ID" OtherKey="UrunID" Type="tblSiparisAlt" />
+      <Association Name="tblKategoriler_tblUrunler" Member="tblKategoriler" ThisKey="KategoriID" OtherKey="ID" Type="tblKategoriler" IsForeignKey="true" DeleteRule="SET DEFAULT" />
+      <Association Name="tblMarkalar_tblUrunler" Member="tblMarkalar" ThisKey="MarkaID" OtherKey="ID" Type="tblMarkalar" IsForeignKey="true" DeleteRule="SET DEFAULT" />
+    </Type>
+  </Table>
+</Database>
